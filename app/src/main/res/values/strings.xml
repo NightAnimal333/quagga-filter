@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuaggaFilter</string>
+    <string name="load_image">Load image</string>
+    <string name="capture_image">Capture image</string>
+    <string name="save_changes">Export</string>
+    <string name="binary">Binary</string>
+    <string name="grayscale">Grayscale</string>
+    <string name="apply">Apply</string>
+</resources>
